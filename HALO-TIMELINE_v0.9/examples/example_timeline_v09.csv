@@ -1,0 +1,4 @@
+TimestampUTC,Source,SubSource,Artifact,Action,User,Host,Process,Path,Details,EventId,RecordId,PID,TID,SourceFile
+2025-11-09T09:38:57.820071Z,EVTX,Security,Security,Logon,TestUser,WINLAB,,,Successful Logon,4624,123,,,security.evtx.csv
+2025-11-09T09:43:57.820071Z,LNK,LECmd,LNK,LinkOpen,,WINLAB,,C:\Users\TestUser\Documents\report.docx,Arg=; Rel=,,45,,,recent.lnk.csv
+2025-11-09T09:48:57.820071Z,MFT,MFTECmd,report.docx,FileMeta,,,,C:\Users\TestUser\Documents\report.docx,Ext=docx; Size=20480; Flags=0x20,,889,,,$MFT.csv

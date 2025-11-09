@@ -1,0 +1,25 @@
+{
+  "name": "HALO-TIMELINE_v0.9",
+  "created": "2025-11-09T09:52:58.636537Z",
+  "structure": [
+    "Timeline",
+    "Timeline/.keep",
+    "csv",
+    "csv/Evtx",
+    "csv/Evtx/.keep",
+    "csv/JumpList",
+    "csv/JumpList/.keep",
+    "csv/LNK",
+    "csv/LNK/.keep",
+    "csv/MFT",
+    "csv/MFT/.keep",
+    "csv/USN",
+    "csv/USN/.keep",
+    "docs",
+    "docs/README.md",
+    "docs/RELEASE_NOTES_v0.9.md",
+    "docs/REPRO_CHECKLIST.md",
+    "meta",
+    "meta/.keep"
+  ]
+}
