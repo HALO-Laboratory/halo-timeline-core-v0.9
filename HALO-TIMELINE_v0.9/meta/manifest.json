@@ -1,0 +1,22 @@
+{
+  "name": "HALO-TIMELINE_v0.9",
+  "created": "2025-11-09T10:31:52.092001Z",
+  "structure": [
+    "Build-HALO-Timeline.ps1",
+    "README.md",
+    "Timeline",
+    "csv",
+    "csv/Evtx",
+    "csv/JumpList",
+    "csv/LNK",
+    "csv/MFT",
+    "csv/USN",
+    "docs",
+    "docs/README.md",
+    "docs/RELEASE_NOTES_v0.9.md",
+    "docs/REPRO_CHECKLIST.md",
+    "examples",
+    "examples/example_timeline_v09.csv",
+    "meta"
+  ]
+}

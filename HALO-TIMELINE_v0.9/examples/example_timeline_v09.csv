@@ -1,0 +1,2 @@
+TimestampUTC,Source,SubSource,Artifact,Action,User,Host,Process,Path,Details,EventId,RecordId,PID,TID,SourceFile
+2025-11-09T10:31:52.091708Z,EVTX,Security,Security,Logon,TestUser,WINLAB,,,Successful Logon,4624,123,,,
